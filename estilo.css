@@ -1,0 +1,21 @@
+body{
+    background: url(photo-1535868463750-c78d9543614f.jpg);
+    color: sandybrown;
+    font-family: cursive;
+}
+h1{
+    color: cadetblue
+}
+
+
+#nombre {
+    width: 10em;
+    text-align: center;
+}
+#Edad {
+    width: 6em;
+    text-align: center;
+}
+#mostrar {
+    font-size: 6em
+}

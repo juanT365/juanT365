@@ -4,19 +4,28 @@ body{
     font-family: cursive;
 }
 h1{
-    font-size: 9em;
+    font-size: 7em;
     color: cadetblue;
 }
+h2{
+    font-size: 5em;
 
+}
 
 #nombre {
+    font-size: 4em;
     width: 10em;
     text-align: center;
 }
 #Edad {
-    width: 6em;
+    font-size: 4em;
+    width:4em;
     text-align: center;
 }
+#boton{
+    font-size: 4em;
+}
+
 #mostrar {
     font-size: 6em
 }
